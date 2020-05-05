@@ -26,8 +26,6 @@
             "Python",
             "SQLServer",
             "Oracle",
-            "Teradata",
-            "Posgres"
         ]
     },
     {
@@ -36,18 +34,13 @@
         "skills": [
             "GitHub",
             "Agile",
-            "Azure DevOps",
-            "NPM",
-            "SAP BO Report and Universe Development",
-            "SQL Server BI Development Studio",
-            "Ralph Kimball Data Warehouse Lifecycle Toolkit"
         ]
     },
     {
         "id": 4,
         "type": "Certification & Credentials",
         "skills": [
-            "BS Information Technology, George Mason University",
+            "BA English, George Mason University",
             "Coding Bootcamp, George Washington University"
         ]
     }
