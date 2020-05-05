@@ -21,7 +21,7 @@ const NavComponent = (props) => {
     return (
         <div>
             <Navbar color="light" light expand="md">
-                <NavbarBrand >Raquel Acevedo</NavbarBrand>
+                <NavbarBrand >Madison Schrews</NavbarBrand>
                 <NavbarToggler onClick={toggle} />
                 <Collapse isOpen={isOpen} navbar>
                     <Nav className="mr-auto" navbar>
@@ -38,10 +38,10 @@ const NavComponent = (props) => {
                             <Link to="/contact" className="btn btn-success">Contact</Link>
                         </NavItem>
                         <NavItem>
-                            <NavLink className="m-2" href="https://github.com/raquelacevedo" target="_blank"><FontAwesomeIcon icon={faGithub} /></NavLink>
+                            <NavLink className="m-2" href="https://github.com/madisonschrews" target="_blank"><FontAwesomeIcon icon={faGithub} /></NavLink>
                         </NavItem>
                         <NavItem>
-                            <NavLink className="m-2" href="https://www.linkedin.com/in/raquel-acevedo-a27a4b9b//" target="_blank"><FontAwesomeIcon icon={faLinkedinIn} /></NavLink>
+                            <NavLink className="m-2" href="https://www.linkedin.com/in/mschrews" target="_blank"><FontAwesomeIcon icon={faLinkedinIn} /></NavLink>
                         </NavItem>
                     </Nav>
                 </Collapse>
